@@ -96,7 +96,7 @@ project/
 1. **Clone the Repository**
    - Clone the repository to your local machine:
    ```bash
-   git clone https://your-repository-url.git
+   git clone https://github.com/talha1135/aws-scrpaper
    cd project-folder
    ```
 
